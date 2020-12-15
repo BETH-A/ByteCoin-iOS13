@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  ByteCoin
 //
-//  Created by Angela Yu on 11/09/2019.
+//  Created by Mary Arnold on 07/09/2020.
 //  Copyright © 2019 The App Brewery. All rights reserved.
 //
 
